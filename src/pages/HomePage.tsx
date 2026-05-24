@@ -424,7 +424,7 @@ export default function HomePage() {
                 {[
                   { label: 'Nama', value: 'EpanDStream' },
                   { label: 'Versi', value: 'v1.0.0' },
-                  { label: 'Developer', value: 'EpanD Team' },
+                  { label: 'Developer', value: 'EpanDLabs' },
                   { label: 'Release', value: '2026' },
                   { label: 'API Provider', value: 'Sanka Vollerei' },
                   { label: 'Bahasa', value: 'Indonesia' },
