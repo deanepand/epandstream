@@ -51,7 +51,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm text-gray-400">
               <li className="flex items-start gap-2">
                 <span className="text-[#f5c518] font-mono font-bold">Dev</span>
-                <span>EpanD Team</span>
+                <span>EpanDLabs</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#f5c518] font-mono font-bold">API</span>
@@ -59,7 +59,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#f5c518] font-mono font-bold">Ver</span>
-                <span>v1.0.0</span>
+                <span>v2.1.0</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[#f5c518] font-mono font-bold">Stack</span>
